@@ -2,7 +2,10 @@
 A line-following robot, also known as a line follower is a robot car that autonomously follow a visible line on the ground or surface i.e. dark coloured line over a light surface.
 
 # Demo
-https://github.com/HarshGaurav45/Line-following-Bot/blob/main/LFR.mp4
+
+https://github.com/user-attachments/assets/6fbb8cd1-b212-4411-8e41-27a5b23d5b7e
+
+
 
 Components Needed:
 
