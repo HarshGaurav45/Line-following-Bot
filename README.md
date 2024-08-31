@@ -21,7 +21,8 @@ https://github.com/user-attachments/assets/6fbb8cd1-b212-4411-8e41-27a5b23d5b7e
 
 6.Power Source: Batteries to power the robot.
 
-Steps to Build:
+
+# Steps to Build:
 
 1.Assemble the Chassis: Set up the physical structure of the robot where you will mount the motors, wheels, and other components.
 
